@@ -47,6 +47,50 @@
           "text": "Italy"
         }
       ]
+    },
+    {
+      "id": "poi.13495378506950280",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "landmark": "true",
+        "tel": "06 681 9121",
+        "category": "college, education, school, university",
+        "address": "Via della Lungara 233",
+        "text": "John Cabot University",
+        "place_name": "John Cabot University"
+      },
+      "center": [12.467476, 41.89253],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.467476, 41.89253]
+      },
+      "context": [{
+          "id": "postcode.15544378823638570",
+          "text": "00165"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
     }
   ]
 }
