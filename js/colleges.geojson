@@ -1,4 +1,4 @@
-var colleges = {
+{
   type: "FeatureCollection",
   features: [
     {
