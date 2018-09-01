@@ -1,6 +1,7 @@
-{
+var colleges = {
   type: "FeatureCollection",
-  features: [{
+  features: [
+    {
       id: "address.1389223010",
       type: "Feature",
       place_type: ["address"],
