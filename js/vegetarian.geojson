@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "query": [],
+  "features": [
+    {
+      "id": "poi.6327378968566510",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "329 826 5250",
+        "category": "restaurant",
+        "place_name": "So What?!?",
+        "address": "Via Ettore Giovenale 56-58",
+        "website": "http://www.sowhatvegan.com/",
+        "tel": "06.64801511",
+        "maki": "restaurant"
+      },
+      "text": "So What?!?",
+      "place_name": "So What, Via Ettore Giovenale 56-58, Roma, Roma 00176, Italy",
+      "center": [
+        12.531636,
+        41.889484
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531636,
+          41.889484
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.6391569882710610",
+          "text": "00176"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.10163778998304420",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 0.2,
+      "properties": {
+        "landmark": true,
+        "tel": "329 665 6085",
+        "category": "restaurant",
+        "place_name": "La Capra Campa",
+        "address": "Via Dignano d'istria 51a Roma",
+        "website": "http://lacapracampa.com/",
+        "tel": "+39 327 456 8592",
+        "maki": "restaurant"
+      },
+      "text": "La Capra Campa",
+      "place_name": "La Capra Campa, Via Dignano d'istria 51a Roma, Roma, Roma 00177, Italy",
+      "center": [
+        12.550818,
+        41.89499
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550818,
+          41.89499
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.11113976499444350",
+          "text": "00177"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.15037582581578060",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "06 361 0801",
+        "category": "restaurant",
+        "address": "Via Cesare Beccaria 3",
+        "maki": "restaurant"
+        "place_name": "Arancia Blu Ristorante vegetariano con enoteca",
+        "address": "Via Cesare Beccaria 3, Roma, Roma 00196, Italy"
+        "website": "http://www.ristorantearanciabluroma.com/",
+        "tel": "391.3509971"
+      },
+      "text": "Arancia Blu Ristorante vegetariano con enoteca",
+      "place_name": "Arancia Blu Ristorante vegetariano con enoteca, Via Cesare Beccaria 3, Roma, Roma 00196, Italy",
+      "center": [
+        12.475187,
+        41.91291
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475187,
+          41.91291
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.14020245925380570",
+          "text": "00196"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "address.606594764",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.9838709677419355,
+      "properties": {
+        "place_name": "Orto",
+        "address": "via Giuseppe Gioachino Belli 142, 00193 Roma Roma, Italy",
+        "website": "http://www.ristoranteorto.it/",
+        "tel": "06.45678050"
+      },
+      "text": "via Giuseppe Gioachino Belli",
+      "place_name": "via Giuseppe Gioachino Belli 142, 00193 Roma Roma, Italy",
+      "center": [
+        12.468404,
+        41.906403
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.468404,
+          41.906403
+        ]
+      },
+      "address": "142",
+      "context": [
+        {
+          "id": "postcode.10360309340175850",
+          "text": "00193"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+  ]
+}
