@@ -2,6 +2,267 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "id": "address.165858640",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "category": "restaurant, vegetarian",
+        "place_name": "Fiore Flexitarian Cuisine",
+        "address": "via Boncompagni 31, 00187 Roma Roma, Italy",
+        "link": "http://www.fiore.roma.it/en",
+        "tel": "06.42020400"
+      },
+      "text": "via Boncompagni",
+      "place_name": "via Boncompagni 31, 00187 Roma Roma, Italy",
+      "center": [
+        12.493177,
+        41.908273
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.493177,
+          41.908273
+        ]
+      },
+      "address": "31",
+      "context": [
+        {
+          "id": "postcode.7646606277732720",
+          "text": "00187"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+        {
+      "id": "poi.15675818929388490",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 0.6666666666666666,
+      "properties": {
+        "landmark": true,
+        "tel": "06 3265 0577",
+        "category": "restaurant, vegetarian",
+        "place_name": "Il Margutta RistorArte",
+        "address": "Via Margutta 118",
+        "link": "http://www.ilmargutta.bio/",
+        "maki": "restaurant"
+      },
+      "text": "Il Margutta RistorArte",
+      "place_name": "Il Margutta RistorArte, Via Margutta 118, Roma, Roma 00187, Italy",
+      "center": [
+        12.478379,
+        41.909465
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.478379,
+          41.909465
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.7646606277732720",
+          "text": "00187"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.19291614336682350",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "06 474 0452",
+        "category": "restaurant, vegetarian",
+        "place_name": "La Zazie",
+        "address": "Via Quintino Sella 29",
+        "maki": "restaurant"
+      },
+      "text": "La Zazie",
+      "place_name": "La Zazie, Via Quintino Sella 29, Roma, Roma 00187, Italy",
+      "center": [
+        12.496458,
+        41.907168
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.496458,
+          41.907168
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.7646606277732720",
+          "text": "00187"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+        {
+      "id": "address.1135293403",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "category": "restaurant, vegetarian",
+        "place_name": "La Zazie",
+        "address": "via Cesare Bosi 7, 00198 Roma Roma, Italy",
+        "tel": "06.8844515",
+        "link": "http://www.lazazie.com/"
+      },
+      "text": "via Cesare Bosi",
+      "place_name": "via Cesare Bosi 7, 00198 Roma Roma, Italy",
+      "center": [
+        12.500226,
+        41.911872
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500226,
+          41.911872
+        ]
+      },
+      "address": "7",
+      "context": [
+        {
+          "id": "postcode.7401735241935250",
+          "text": "00198"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "address.1576648759",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "category": "restaurant, vegetarian",
+        "place_name": "Il Geco Biondo",
+        "address": "via Gerolamo Cardano 105, 00146 Roma Roma, Italy",
+        "link": "http://www.gecobiondo.eu/",
+        "tel": "06.5571048"
+      },
+      "text": "via Gerolamo Cardano",
+      "place_name": "via Gerolamo Cardano 105, 00146 Roma Roma, Italy",
+      "center": [
+        12.465997,
+        41.862781
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.465997,
+          41.862781
+        ]
+      },
+      "address": "105",
+      "context": [
+        {
+          "id": "postcode.13275514192372600",
+          "text": "00146"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
       "id": "poi.6327378968566510",
       "type": "Feature",
       "place_type": [
@@ -11,10 +272,10 @@
       "properties": {
         "landmark": true,
         "tel": "329 826 5250",
-        "category": "restaurant",
+        "category": "restaurant, vegetarian",
         "place_name": "So What?!?",
         "address": "Via Ettore Giovenale 56-58",
-        "website": "http://www.sowhatvegan.com/",
+        "link": "http://www.sowhatvegan.com/",
         "tel": "06.64801511",
         "maki": "restaurant"
       },
@@ -65,10 +326,10 @@
       "properties": {
         "landmark": true,
         "tel": "329 665 6085",
-        "category": "restaurant",
+        "category": "restaurant, vegetarian",
         "place_name": "La Capra Campa",
         "address": "Via Dignano d'Istria 51a Roma",
-        "website": "http://lacapracampa.com/",
+        "link": "http://lacapracampa.com/",
         "tel": "+39 327 456 8592",
         "maki": "restaurant"
       },
@@ -119,12 +380,12 @@
       "properties": {
         "landmark": true,
         "tel": "06 361 0801",
-        "category": "restaurant",
+        "category": "restaurant, vegetarian",
         "address": "Via Cesare Beccaria 3",
         "maki": "restaurant",
         "place_name": "Arancia Blu Ristorante vegetariano con enoteca",
         "address": "Via Cesare Beccaria 3, Roma, Roma 00196, Italy",
-        "website": "http://www.ristorantearanciabluroma.com/",
+        "link": "http://www.ristorantearanciabluroma.com/",
         "tel": "391.3509971"
       },
       "text": "Arancia Blu Ristorante vegetariano con enoteca",
@@ -172,9 +433,10 @@
       ],
       "relevance": 0.9838709677419355,
       "properties": {
+        "category": "restaurant, vegetarian",
         "place_name": "Orto",
         "address": "via Giuseppe Gioachino Belli 142, 00193 Roma Roma, Italy",
-        "website": "http://www.ristoranteorto.it/",
+        "link": "http://www.ristoranteorto.it/",
         "tel": "06.45678050"
       },
       "text": "via Giuseppe Gioachino Belli",
@@ -195,6 +457,321 @@
         {
           "id": "postcode.10360309340175850",
           "text": "00193"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.14431600155583370",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 0.4,
+      "properties": {
+        "landmark": true,
+        "tel": "06 682831",
+        "category": "restaurant, vegetarian",
+        "place_name": "Mater Terrae",
+        "address": "Largo Febo 2, Roma, Roma 00186, Italy",
+        "link": "http://www.raphaelhotel.com/raphel-hotel-restaurant-in-rome.htm"
+      },
+      "text": "Hotel Raphael",
+      "place_name": "Hotel Raphael, Largo Febo 2, Roma, Roma 00186, Italy",
+      "center": [
+        12.472158,
+        41.900078
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.472158,
+          41.900078
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.15469928861926560",
+          "text": "00186"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.16287540935960610",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "06 5728 9203",
+        "category": "restaurant, vegetarian",
+        "place_name": "Romeow Cat Bistrot",
+        "address": "Via Francesco Negri 15",
+        "maki": "restaurant",
+        "link": "http://www.romeowcatbistrot.com/"
+      },
+      "text": "Romeow Cat Bistrot",
+      "place_name": "Romeow Cat Bistrot, Via Francesco Negri 15, Roma, Roma 00154, Italy",
+      "center": [
+        12.481437,
+        41.870468
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481437,
+          41.870468
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.7402337349488590",
+          "text": "00154"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "address.2147027801",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.9000000000000001,
+      "properties": {
+        "category": "restaurant, vegetarian",
+        "place_name": "Beehive Café",
+        "address": "via Marghera 8, 00185 Roma Roma, Italy",
+        "tel": "06.44704553",
+        "link": "http://www.the-beehive.com/"
+      },
+      "text": "via Marghera",
+      "place_name": "via Marghera 8, 00185 Roma Roma, Italy",
+      "center": [
+        12.50428,
+        41.902904
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50428,
+          41.902904
+        ]
+      },
+      "address": "8",
+      "context": [
+        {
+          "id": "postcode.12698094745797020",
+          "text": "00185"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "address.653121162",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "category": "restaurant, vegetarian, gelato",
+        "place_name": "Grezzo",
+        "address": "via Urbana 130, 00184 Roma Roma, Italy",
+        "tel": "06.483443",
+        "link": "http://www.grezzoitalia.it/"
+      },
+      "text": "via Urbana",
+      "place_name": "via Urbana 130, 00184 Roma Roma, Italy",
+      "center": [
+        12.494493,
+        41.896707
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494493,
+          41.896707
+        ]
+      },
+      "address": "130",
+      "context": [
+        {
+          "id": "postcode.9369292122155010",
+          "text": "00184"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "poi.14672792252606980",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "348 100 4757",
+        "category": "alcohol, bar, restaurant, vegetarian",
+        "place_name": "Universo Vegano",
+        "address": "Piazza del Paradiso 18, Roma, Roma 00186, Italy",
+        "link": "http://www.universovegano.it/en/",
+        "Email": "roma02@universovegano.it"
+      },
+      "text": "Universo Vegano",
+      "place_name": "Universo Vegano, Piazza del Paradiso 18, Roma, Roma 00186, Italy",
+      "center": [
+        12.473363,
+        41.896126
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.473363,
+          41.896126
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.15469928861926560",
+          "text": "00186"
+        },
+        {
+          "id": "place.9045806458813870",
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "region.3733",
+          "short_code": null,
+          "wikidata": "Q220",
+          "text": "Roma"
+        },
+        {
+          "id": "country.333",
+          "short_code": "it",
+          "wikidata": "Q38",
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "address.1844623688",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "category": "supermarket, delivery, vegetarian",
+        "place_name": "iVegan",
+        "address": "via Angelo Emo 125, 00136 Roma Roma, Italy",
+        "tel": "+39 06 8670 6868",
+        "link": "http://ivegan.it/",
+        "email": "ivegan@ivegan.it"
+      },
+      "text": "via Angelo Emo",
+      "place_name": "via Angelo Emo 125, 00136 Roma Roma, Italy",
+      "center": [
+        12.445127,
+        41.903829
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.445127,
+          41.903829
+        ]
+      },
+      "address": "125",
+      "context": [
+        {
+          "id": "postcode.7968738606504650",
+          "text": "00136"
         },
         {
           "id": "place.9045806458813870",
