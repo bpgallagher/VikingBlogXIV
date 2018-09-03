@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "query": [],
   "features": [
     {
       "id": "poi.6327378968566510",
@@ -68,13 +67,13 @@
         "tel": "329 665 6085",
         "category": "restaurant",
         "place_name": "La Capra Campa",
-        "address": "Via Dignano d'istria 51a Roma",
+        "address": "Via Dignano d'Istria 51a Roma",
         "website": "http://lacapracampa.com/",
         "tel": "+39 327 456 8592",
         "maki": "restaurant"
       },
       "text": "La Capra Campa",
-      "place_name": "La Capra Campa, Via Dignano d'istria 51a Roma, Roma, Roma 00177, Italy",
+      "place_name": "La Capra Campa, Via Dignano d'Istria 51a Roma, Roma, Roma 00177, Italy",
       "center": [
         12.550818,
         41.89499
